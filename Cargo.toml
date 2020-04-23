@@ -1,5 +1,5 @@
 [package]
-name = "structs"
+name = "learn-rust"
 version = "0.1.0"
 authors = ["516M <thingstuffet@gmail.com>"]
 edition = "2018"
